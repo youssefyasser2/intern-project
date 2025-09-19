@@ -1,0 +1,32 @@
+{
+  "ingredients": [
+    {
+      "id": "chicken",
+      "name": "Chicken Breast",
+      "per100g": { "kcal": 165, "protein": 31, "carbs": 0, "fat": 3.6 },
+      "imageUrl": "assets/images/chicken.jpg",
+      "color": "#4CAF50"
+    },
+    {
+      "id": "rice",
+      "name": "Cooked Rice",
+      "per100g": { "kcal": 130, "protein": 2.7, "carbs": 28, "fat": 0.3 },
+      "imageUrl": "assets/images/rice.jpg",
+      "color": "#FFC107"
+    },
+    {
+      "id": "broccoli",
+      "name": "Broccoli",
+      "per100g": { "kcal": 34, "protein": 2.8, "carbs": 7, "fat": 0.4 },
+      "imageUrl": "assets/images/broccoli.jpg",
+      "color": "#8BC34A"
+    },
+    {
+      "id": "olive_oil",
+      "name": "Olive Oil",
+      "per100g": { "kcal": 884, "protein": 0, "carbs": 0, "fat": 100 },
+      "imageUrl": "assets/images/olive oil.jpg",
+      "color": "#FF9800"
+    }
+  ]
+}
