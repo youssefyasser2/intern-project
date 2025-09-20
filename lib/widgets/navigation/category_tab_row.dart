@@ -1,5 +1,3 @@
-// lib/widgets/category_tab_row.dart
-
 import 'package:flutter/material.dart';
 import 'package:nutrifit/widgets/category_tab.dart';
 
